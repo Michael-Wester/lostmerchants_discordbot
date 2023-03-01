@@ -1,0 +1,8 @@
+venv
+__pycache__
+rubbish
+.env
+.vscode
+*.png
+*.txt
+*.log
